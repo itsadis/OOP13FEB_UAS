@@ -26,7 +26,7 @@ public:
 
 int main() {
     // Membuat objek karyawan
-    Karyawan karyawan("VILANDA", 100, 80);
+    Karyawan karyawan("Adisty", 100, 2500);
 
     // Menampilkan total gaji karyawan
     printf("Total gaji karyawan: %.2f\n", karyawan.hitungGajiTotal());

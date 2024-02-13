@@ -28,7 +28,7 @@ public:
 
 int main() {
     // Membuat objek mahasiswa
-    Student myStudent("Vilanda Harsono", 20, 89);
+    Student myStudent(" Adisty Nurharumandari", 20, 89);
 
     // Menampilkan informasi lengkap mahasiswa
     myStudent.displayInfo();

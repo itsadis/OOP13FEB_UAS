@@ -31,7 +31,7 @@ public:
 
 int main() {
     // Membuat objek buku
-    Book myBook("Indonesia benci kamu Megawati", "Gerakan 4 Jari", 1995);
+    Book myBook("Estetika Sukma Tulang Renggang", "Syafigyra", 2020);
 
     // Menampilkan informasi lengkap beserta status "kuno" atau tidak
     myBook.displayInfo();
